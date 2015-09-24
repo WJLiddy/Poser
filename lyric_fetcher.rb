@@ -18,7 +18,7 @@ class LyricFetcher
     rescue
       raise NoLyricsError.new("No lyrics for #{url}") 
     end
-    raw_lyrics.to_s[start_lyrics_br..end_lyrics_br].gsub("<br>","\n")
+    raw_lyrics.to_s[start_lyrics_br..end_lyrics_br].gsub("<br>","\n").downcase
   end
 
 end

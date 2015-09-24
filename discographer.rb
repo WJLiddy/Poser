@@ -39,5 +39,3 @@ class Discographer
     end
   end
 end
-
-#Usage: $stdout.flush
