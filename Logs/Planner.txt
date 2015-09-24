@@ -1,0 +1,47 @@
+First Step:
+	Dragonforce only all-purposed generator
+Intermediate:
+Advanced:
+End Goal:
+	
+Source Project:
+	Need to do:
+		Figure out how SOURCE works
+		Identify "mentors"
+			Music Dept.
+				Ted will handle music Profs
+			CS Dept.
+				Jack will sorta handle CS Profs
+			Stat Dept.
+				Ted will handle Stats Prof (Wojbor Woyczynski)
+	
+
+For First Step
+	Lyrics:
+		Have:
+			Scrapers for Lyrics
+			Halfway done original lyrics generator
+		Need:
+			NLP check grammar 
+			generate lyrics that make sense
+		Pluses:
+			Possible additions for synonyms in generator
+
+	Music:
+		Have:
+		Need:
+			Midi/Guitar Pro scraper
+			Music Analysis:
+				Pitch Progression
+				Rhythm
+			Generator:
+				Bass
+				Drums
+				Guitar
+				Vocal
+			*Senders for making midis into real music
+	
+	Interactions:
+		Music part generate amount of syllables for Lyrics generator to use
+
+		
