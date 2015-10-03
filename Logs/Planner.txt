@@ -14,8 +14,8 @@ Source Project:
 				Jack will sorta handle CS Profs
 			Stat Dept.
 				Ted will handle Stats Prof (Wojbor Woyczynski)
-	
 
+	
 For First Step
 	Lyrics:
 		Have:
@@ -30,7 +30,7 @@ For First Step
 	Music:
 		Have:
 		Need:
-			Midi/Guitar Pro scraper
+			Guitar Pro
 			Music Analysis:
 				Pitch Progression
 				Rhythm
@@ -42,6 +42,4 @@ For First Step
 			*Senders for making midis into real music
 	
 	Interactions:
-		Music part generate amount of syllables for Lyrics generator to use
-
-		
+		Music part generate amount of syllables for Lyrics generator to use		

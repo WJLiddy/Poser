@@ -1,0 +1,4 @@
+Jack:
+	Scrape Guitar Pro(R) Files and NLP
+Ted:
+	Analyze Guitar Pro(R) Files
